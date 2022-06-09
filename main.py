@@ -1,4 +1,5 @@
 #Selection sort
+
 def selection_sort(nums):
     for i in range(4):
         minpos = i
